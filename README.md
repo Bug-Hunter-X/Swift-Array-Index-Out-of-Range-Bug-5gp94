@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift programming error: accessing an array element beyond its valid index range.  The `bug.swift` file contains the erroneous code, resulting in a runtime error. The `bugSolution.swift` file provides a corrected version with explanations.
